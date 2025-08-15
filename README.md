@@ -1,2 +1,2 @@
-# mechu
+# Mechu
 점메추
